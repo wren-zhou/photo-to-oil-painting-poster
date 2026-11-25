@@ -12,3 +12,6 @@ Targeted repair instructions:
 - Incorrect copy: specify exact strings, revise only text/layout if supported; otherwise regenerate with explicit strings.
 - Bad crop: extend the source naturally; avoid stretching.
 - Style drift in batch: compare against closest supplied target; restore shared cream, font proportions, brushwork and hierarchy.
+
+## Full-scene painting check
+- Reject a result that reads as a photograph with a surface texture overlay, or where only the sky is visibly painted while the foreground, figures or vegetation remain photographic. Repaint those areas with scene-adaptive directional strokes and simplified colour masses, keeping the existing composition, typography and palette. Avoid uniformly heavy impasto.
