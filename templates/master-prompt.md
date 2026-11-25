@@ -7,6 +7,14 @@ Source scene: [SCENE_DESCRIPTION]. Preserve [KEY_SUBJECTS_AND_SPATIAL_RELATIONSH
 
 Repaint as luminous impressionist oil painting with layered directional impasto, palette-knife texture, painterly realism and refined recognizable details. Color and light: [SCENE_PALETTE_AND_LIGHT]. Use warm cream highlights and cool chromatic shadows where appropriate. Painting intensity: [PAINTING_INTENSITY]. Fidelity: [SOURCE_FIDELITY].
 
+Repaint the entire scene consistently, including the foreground, midground, background, people and vegetation, rather than applying a painterly texture over photographic details.
+
+Adapt brushwork to scene complexity: use more expressive directional oil strokes, broken colour and clearly visible painted colour masses in open landscapes, mountains, meadows, foliage, water and skies. Use finer, controlled brushwork for intricate architecture and other structurally detailed subjects.
+
+Gently simplify photographic micro-details in people, clothing, hair, vegetation and surface textures while preserving recognizable forms, anatomy, composition and spatial relationships.
+
+Maintain the established poster references' oil-painting character. Avoid photographic realism, superficial texture overlays and excessive or uniformly heavy impasto.
+
 Exact headline: "[TITLE]". Exact subtitle: "[SUBTITLE]". Place subtitle in small thin charcoal handwritten cursive at top center. Below it use a single line of extremely tall ultra-bold condensed uppercase sans-serif, spanning [HEADLINE_WIDTH] of canvas width. Use warm ivory negative space above and outside glyphs, including counters. Reveal one continuous painted background through all headline letters; never use solid-color letters or separate images. The lower letters merge organically into the full-width painted landscape below.
 
 Composition strategy: [COMPOSITION_STRATEGY]. Foreground occluders: [OCCLUDERS_AND_POSITION]. Overlap strength: [OVERLAP]. Preserve distinguishing glyph strokes and natural depth. Keep the subtitle unobstructed and the main title readable.
