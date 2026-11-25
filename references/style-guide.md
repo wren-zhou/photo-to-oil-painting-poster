@@ -6,3 +6,13 @@
 - Keep the original setting and emotional narrative. Natural vertical outpainting is preferred to stretching or destructive cropping.
 - No flat vectors, cartoon, anime, watercolor washes, plastic 3D, excessive HDR, harsh black shadows, logos, borders or mockup frames.
 - Full bleed at bottom and sides of the landscape, with deliberate cream space above. Subtle paper character, not heavy noise.
+
+## Adaptive brushwork
+
+Repaint the entire scene consistently, including the foreground, midground, background, people and vegetation, rather than applying a painterly texture over photographic details.
+
+Adapt brushwork to scene complexity: use more expressive directional oil strokes, broken colour and clearly visible painted colour masses in open landscapes, mountains, meadows, foliage, water and skies. Use finer, controlled brushwork for intricate architecture and other structurally detailed subjects.
+
+Gently simplify photographic micro-details in people, clothing, hair, vegetation and surface textures while preserving recognizable forms, anatomy, composition and spatial relationships.
+
+Maintain the established poster references' oil-painting character. Avoid photographic realism, superficial texture overlays and excessive or uniformly heavy impasto.
